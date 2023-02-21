@@ -1,7 +1,7 @@
 # Chapter 6
 
 ## Overview
-In this assignment, you will be extending your “Loop” language compiler from the last assignment to create the "Alloc" language. This language will add the following features:
+In this assignment, you will be extending your “Loop” language compiler from the last assignment to create the "Vector" language. This language will add the following features:
 * Hetereogenous lists or tuples
 * Garbage collection
 
